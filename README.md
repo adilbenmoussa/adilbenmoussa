@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Adil Ben Moussa</h1>
-<p align="center"><strong>🏗️ Architect · 💻 Software Engineer · 🅰️ Angular Migration Specialist · 📱 Mobile Engineer</strong></p>
+<p align="center"><strong>🏗️ Architect · 💻 Software Engineer · 🅰️ Angular Migration Specialist · 📱 Mobile Engineer · 🤝 Consultant</strong></p>
 
 <p align="center">
   ⚡ Angular · Nx · TypeScript · Signals · 📲 React Native · 🍏 Objective-C · 🌀 Swift · 🔗 Frontend Integrations
@@ -9,17 +9,20 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Software Architect & Engineer** who enjoys turning large, messy codebases into scalable, elegant systems.  
-Specialties: **enterprise Angular migrations** (yes, I’ve fought the AngularJS → Angular 20 dragons 🐉),  
-**frontend integrations** (connecting things that don’t want to connect 🤝),  
-and **mobile apps** with React Native & native iOS (Objective-C/Swift).  
+I’m a **Software Architect, Engineer & Consultant** who helps teams modernize and scale their platforms.  
+I love turning large, messy codebases into clean, elegant systems and guiding teams through tough transitions.  
+
+Specialties:  
+- **Enterprise Angular migrations** (yes, I’ve fought the AngularJS → Angular 20 dragons 🐉)  
+- **Frontend integrations** (connecting things that don’t want to connect 🤝)  
+- **Mobile engineering** with React Native & native iOS (Objective-C/Swift)  
 
 ---
 
 ## 🏗️ Key Focus Areas
 
-- 🧭 **Architect / Software Engineer**  
-  Designing scalable frontend architectures, micro-frontends, and integration platforms.  
+- 🧭 **Architect / Consultant**  
+  Designing scalable frontend architectures, advising teams, and coaching best practices.  
 
 - 🅰️ **Angular Migration Specialist**  
   Upgrading legacy apps → Angular 20 with **signals**, standalone components, zoneless mode, and strict typing.  
@@ -33,7 +36,7 @@ and **mobile apps** with React Native & native iOS (Objective-C/Swift).
 
 | Project | Role | Highlights |
 |---|---|---|
-| 🅰️ **Angular Enterprise Migrations** | Architect/Lead Engineer | Migrated Nx monorepos to Angular 20, signals, standalone APIs |
+| 🅰️ **Angular Enterprise Migrations** | Architect/Consultant | Migrated Nx monorepos to Angular 20, signals, standalone APIs |
 | 📲 **Mobile Apps (RN + iOS)** | Mobile Engineer | Hybrid apps mixing RN + native Obj-C/Swift modules |
 
 ---
